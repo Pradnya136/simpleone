@@ -1,0 +1,107 @@
+/*Selector {
+	property: value;*/
+body {
+	background-image: url(https://images.unsplash.com/photo-1489005718574-3a0254a199e2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=54069383bfac0911e28e135379d83cf1&auto=format&fit=crop&w=889&q=80);
+	background-size: cover;
+	background-repeat:repeat-x;
+	font-family: 'Gamja Flower', cursive;
+	font-size:30px;
+	padding: 25px;
+	
+}
+img{
+	float: left;
+
+}
+header {
+	text-align: center;
+	background-color: #CDAFAF;
+	font-size:33;
+	font-family:monospace;
+	border-width: white;
+	border-bottom-style: ridge; 
+	text-shadow: initial;
+	box-shadow: rgba(55,0,0,0);
+border-bottom-color: rgb(55,0,0);
+border-right: solid rgb(55,0,0); 
+border-left:solid rgb(55,0,0);
+box-shadow: 6px 6px 6px #888888
+}
+h1 {
+	color: rgb(24,13,30);
+	text-align: center;
+font-family: fantasy;
+	font-size:40px;
+	background-color: transparent;
+	border-style:ridge;
+	border-radius: 1px;
+	border-color: white;
+	box-shadow: 4px 4px 4px #876F72;
+}
+ p{
+	color: #F7E9EA;
+	font-family: monospace;
+	font-size: 25px;
+	text-shadow: 2px 2px 2px black;
+}
+#abc {
+	background-image:url(https://images.unsplash.com/photo-1536366396317-5293d7616c1b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6ec00a8a3d67d8144b0c6c182356d610&auto=format&fit=crop&w=400&q=80);
+	color: linen;
+	font-family:'Cutive Mono', monospace;
+}
+#aml{
+	font-size: 30px;
+	color:yellow;
+	font-family: fantasy;
+	border-style: solid 10px white;
+	box-shadow: 5px 5px 5px black;
+	text-shadow: 2px 2px 2px black;
+	text-align: center;
+
+	
+}
+
+div{
+	color:blue;
+}
+span{
+	color: #4B0007;
+	text-shadow:2px 2px 2px black;
+	box-shadow: 3px 3px 3px #4B0007;
+	font-size:55px;
+	font-family:'Fredericka the Great', cursive; 
+
+}
+ul{ 
+	list-style-image: url("img_marker.png");
+	list-style-type: circle;
+	list-style-position: inside;
+	background-color:rgba(255,5,5,0.2);
+	padding: 20px;
+	margin:20px
+}
+#pic1{
+	border-image:all;
+	box-shadow:10px 10px 10px #26212F;
+	border-style:solid #888888;
+}
+.list{
+	font-family:monospace;
+	font-size: 25px;
+	background-color: rgba(253,196,201,0.7);
+
+}
+section{
+	font-family: monospace;
+	font-size:25px;
+	color: white;
+	text-shadow: 2px 2px 2px black;
+
+}
+h3{
+	font-family:'Cutive Mono', monospace;
+	text-shadow: 1px 1px 1px black;
+	color:#CCC0C6; 
+	font: 15px;
+	background-image: url(https://images.unsplash.com/photo-1536366396317-5293d7616c1b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6ec00a8a3d67d8144b0c6c182356d610&auto=format&fit=crop&w=400&q=80); 
+}
